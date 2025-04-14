@@ -18,13 +18,13 @@
 1. Установите зависимости:
 
 
-```npm install```
+    ```npm install```
 
 
 2. Запустите сервер Expo:
 
 
-```npx expo start```
+    ```npx expo start```
 
 
 3. Включите камеру/ отсканируйте QR-код в ExpoGo
