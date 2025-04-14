@@ -1,4 +1,4 @@
-# MapUP App 📍
+![image](https://github.com/user-attachments/assets/50d8bf62-1357-4139-84a9-1ae81f25ec73)# MapUP App 📍
 
 Мобильное приложение для работы с геометками, с поддержкой уведомлений и адаптивным интерфейсом.
 
@@ -26,4 +26,5 @@ npx expo start
 
 
 
-![image](https://github.com/user-attachments/assets/845a490a-4f15-4917-98da-463156a47d9b)
+![image](https://github.com/user-attachments/assets/53c77b0b-563e-4186-a9a7-56c0141027c7)
+
